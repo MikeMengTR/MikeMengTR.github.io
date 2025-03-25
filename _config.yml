@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tingran Meng"
-  pronouns         : "he/hime" # example: "she/her"  
-  bio              : "Undergraduate student major in Artificial Intelligence, School of Future Technology. My research interests include energy forecasting and CV, with a passion for leveraging AI to drive sustainable development and societal impact."
+  pronouns         : "he/him" # example: "she/her"  
+  bio              : "Undergraduate student major in Artificial Intelligence, School of Future Technology, Interested in energy forecasting and CV."
   location         : "Guangzhou, CN"
   employer         : "South China University of Technology"
   uri              : # URL
@@ -33,11 +33,11 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : 
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
   scopus           : # URL
 
@@ -50,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

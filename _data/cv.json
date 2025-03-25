@@ -1,32 +1,27 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "孟庭冉",
+    "email": "2364870171@mail.scut.edu.cn"",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://MikeMengTR.io",
+    "summary": "Undergraduate student major in Artificial Intelligence, School of Future Technology. My research interests include energy forecasting and CV, with a passion for leveraging AI to drive sustainable development and societal impact.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "GuangZhou",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
-      },
-      {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "MikeMengTR",
+        "url": "https://github.com/MikeMengTR"
+      },
+      {
+        "network": "Twitter",
+        "username": "MikeMengTR",
+        "url": "https://x.com/MikeMengTR"
       }
     ]
   },

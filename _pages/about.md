@@ -21,7 +21,7 @@ My research interest includes **📈 Energy prediction** and **🧠 Artificial I
 
 ---
 ## 🏆 Awards & Honors
-- 🥇 **First Prize**, National Undergraduate Mathematical Modeling Competition, Guangdong (2024)
+- 🥇 <span style="color:red">**First Prize**</span>, National Undergraduate Mathematical Modeling Competition, Guangdong (2024)
 - 🧮 **Excellent Third Class scholarship**, from South China University of Technology (2024).
 - 🥉 **Third Prize**, Embedded Chip & System Design Competition, Southern Region (2024)
 - 🥉 **Third Prize**, Baidu PaddlePaddle Cup Student Science and Technology Works Competition，School of Future Technology, South China University of Technology.(2023)

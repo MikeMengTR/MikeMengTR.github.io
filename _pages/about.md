@@ -16,8 +16,8 @@ My research interest includes **📈 Energy prediction** and **🧠 Artificial I
 
 | 📅 Year        | 🏛️ Institution                                         | 📚 Major / Program           | 🎯 GPA / Rank                |
 |---------------|---------------------------------------------------------|------------------------------|------------------------------|
-| 2023–Present  |South China University of Technology - School of Future Technology*            | Artificial Intelligence              | ⭐ **3.87 / 4.00** (Top 7%)   |
-| 2020-2023     | Suzhou High School Affiliated to Xi’an Jiaotong University                     | Physics, Chemistry, Biology           | 📝 Gaokao: 648 (Provincial rank: 5543)     |
+| 2023–Present  |South China University of Technology <br> School of Future Technology            | Artificial Intelligence              | ⭐ **3.87 / 4.00** (Top 7%)   |
+| 2020-2023     | Suzhou High School Affiliated to Xi’an Jiaotong University                     | Physics, Chemistry, Biology           | 📝 Gaokao: 648 <br>(Provincial rank: 5543)     |
 
 ---
 ## 🏆 Awards & Honors

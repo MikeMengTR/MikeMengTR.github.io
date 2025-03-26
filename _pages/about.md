@@ -17,8 +17,9 @@ My research interest includes **📈 Energy prediction** and **🧠 Artificial I
 
 | 📅 Year        | 🏛️ Institution                                         | 📚 Major / Program           | 🎯 GPA / Rank                |
 |---------------|---------------------------------------------------------|------------------------------|------------------------------|
-| 2023–Present  | South China University of Technology<br>*School of Future Technology*            | Artificial Intelligence              | ⭐ **3.87 / 4.00** (Top 7%)   |
-| 2020-2023     | Suzhou High School Affiliated to Xi’an Jiaotong University                     | Physics, Chemistry, Biology           | 📝 Gaokao: 648 (Provincial rank: 5543)       |
+| 2023–Present  |South China University of Technology - School of Future Technology*            | Artificial Intelligence              | ⭐ **3.87 / 4.00** (Top 7%)   |
+| 2020-2023     | Suzhou High School Affiliated to Xi’an Jiaotong University                     | Physics, Chemistry, Biology           | 📝 Gaokao: 648 (Provincial rank: 5543)     |
+
 ---
 
 ## 🏆 Awards & Honors
@@ -30,13 +31,16 @@ My research interest includes **📈 Energy prediction** and **🧠 Artificial I
 - 🥉 **Third Prize**, National Undergraduate Mathematics Competition, Guangdong (2023)
 
 ---
+📝 Publications
+- Coming soon...(Trust me)
 
+---
 ## 📬 Get in Touch
 
 - 📧 **Email**: [202364870171@mail.sct.edu.cn](mailto:202364870171@mail.sct.edu.cn)
 - 🌐 **Website**: [MikeMengTR.github.io](https://MikeMengTR.github.io)
 - 🐙 **GitHub**: [github.com/MikeMengTR](https://github.com/MikeMengTR)
-- 🧾 **CV / Resume**: [Coming soon. (Trust me...)]
+- 🧾 **CV / Resume**: [Coming soon.]
 - 💬 **WeChat**: mtr1048881516
 
 ---

@@ -27,7 +27,7 @@ My research interest includes **📈 Energy prediction** and **🧠 Artificial I
 - 🥉 **Third Prize**, National Undergraduate Mathematics Competition, Guangdong (2023)
 
 ---
-##📝 Publications
+## 📝 Publications
 - Coming soon...(Trust me)
 
 ---

@@ -1,0 +1,17 @@
+/* 内容区域占满整个页面宽度（或90%的视口宽度） */
+.page__content {
+  max-width: 900% !important;
+  width: 90%;
+  padding: 0 2rem;
+}
+
+/* 可选：让包含内容的外壳容器也变宽 */
+.wrap {
+  max-width: 90% !important;
+  width: 90%;
+}
+
+/* 可选：文章正文内内容的宽度也放宽 */
+.entry__content {
+  max-width: 100% !important;
+}

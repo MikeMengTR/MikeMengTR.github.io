@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
 **Hi, my name is Tingran Meng (孟庭冉). You can feel free to call me Mike Meng!** I’m currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in **Artificial Intelligence**. 
 
 My research interest includes **📈 Energy prediction** and **🧠 Artificial Intelligence**. Current work in process is focusing on **Jointly Multi-Energy Forecasting**.
@@ -28,7 +27,7 @@ My research interest includes **📈 Energy prediction** and **🧠 Artificial I
 - 🥉 **Third Prize**, National Undergraduate Mathematics Competition, Guangdong (2023)
 
 ---
-📝 Publications
+##📝 Publications
 - Coming soon...(Trust me)
 
 ---

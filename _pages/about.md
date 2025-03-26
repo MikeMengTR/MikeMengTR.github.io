@@ -13,6 +13,7 @@ My research interest includes **📈 Energy prediction** and **🧠 Artificial I
 
 ---
 ## 🏫 Education Background
+
 | 📅 Year        | 🏛️ Institution                                         | 📚 Major / Program           | 🎯 GPA / Rank                |
 |---------------|---------------------------------------------------------|------------------------------|------------------------------|
 | 2023–Present  |South China University of Technology - School of Future Technology*            | Artificial Intelligence              | ⭐ **3.87 / 4.00** (Top 7%)   |

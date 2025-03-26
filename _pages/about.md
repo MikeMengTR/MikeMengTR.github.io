@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 ---
-**Hi, My name is Tingran Meng (孟庭冉). You can feel free to call me Mike Meng!** I’m currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in **Artificial Intelligence**. 
+**Hi, my name is Tingran Meng (孟庭冉). You can feel free to call me Mike Meng!** I’m currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in **Artificial Intelligence**. 
 
 My research interest includes **📈 Energy prediction** and **🧠 Artificial Intelligence**. Current work in process is focusing on **Jointly Multi-Energy Forecasting**.
 
@@ -16,7 +16,7 @@ My research interest includes **📈 Energy prediction** and **🧠 Artificial I
 
 | 📅 Year        | 🏛️ Institution                                         | 📚 Major / Program           | 🎯 GPA / Rank                |
 |---------------|---------------------------------------------------------|------------------------------|------------------------------|
-| 2023–Present  |South China University of Technology <br> School of Future Technology            | Artificial Intelligence              | ⭐ **3.87 / 4.00** (Top 7%)   |
+| 2023–Present  |South China University of Technology <br> School of Future Technology            | Artificial Intelligence              | ⭐ **3.87 / 4.00** <br>(Top 7%)   |
 | 2020-2023     | Suzhou High School Affiliated to Xi’an Jiaotong University                     | Physics, Chemistry, Biology           | 📝 Gaokao: 648 <br>(Provincial rank: 5543)     |
 
 ---

@@ -74,6 +74,6 @@ Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu
 -->
 
 # 💻 Internships
-- *2024.10 - present*, [MPRG Lab](https://drliuqi.github.io/laboratory_students), School of Future Technology, South China University of Technology, Guangzhou, China.
+- *2024.10 - 2025.06*, [MPRG Lab](https://drliuqi.github.io/laboratory_students), School of Future Technology, South China University of Technology, Guangzhou, China.
 
 

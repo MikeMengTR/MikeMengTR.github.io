@@ -26,6 +26,7 @@ My research interest includes Computer Vision and Computer Graphics. Current wor
 <span style="color: red; font-weight: bold;">Last Update: Dec 24, 2025</span>
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2024-2025!
 - *2024.12*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2023-2024!
 - *2024.02*: &nbsp;🎉🎉 I have won **<span style="color: red;">Finalist</span> of 2024 Mathematical Contest in Modeling (MCM)**！<span style="color: red;">(Top 2%)</span>
 - *2023.12*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2022-2023!
@@ -49,6 +50,7 @@ Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu
 </div>
 
 # 🎖 Honors and Awards
+- *2025.12* **Third-Class Scholarship**, for the academic year 2024-2025, South China University of Technology.
 - *2025.07* **First-Class Scholarship of 2025 "Meet Xiao Mian" Innovation Prize**, South China University of Technology.
 - *2025.06* **Third-Class Scientific and Technological Innovation Award of 2024 "Future Technology Taihu Innovation Award"**, School of Future Technology, South China University of Technology.
 - *2025.05* **4th place in "3D Reconstruction From Monocular Multi-Food Images" competition**, CVPR 2025 MetaFood Workshop.

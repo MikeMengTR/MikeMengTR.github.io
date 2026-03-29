@@ -1,0 +1,102 @@
+/* ==========================================================================
+   PUBLICATION PAPER-BOX CARDS
+   Ported from SitongWang-NJ/acad-homepage style
+   ========================================================================== */
+
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px solid var(--global-border-color);
+  padding: 2em 0;
+
+  .paper-box-image {
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 2;
+
+    div {
+      position: relative;
+    }
+
+    img {
+      max-width: 400px;
+      width: 100%;
+      box-shadow: 3px 3px 6px rgba(#000, 0.2);
+      object-fit: cover;
+      border-radius: 4px;
+    }
+  }
+
+  .paper-box-text {
+    max-width: 100%;
+    order: 1;
+
+    a {
+      font-weight: bold;
+      font-size: 1em;
+      color: var(--global-link-color);
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+        color: var(--global-link-color-hover);
+      }
+    }
+
+    p {
+      margin: 0.4em 0;
+    }
+
+    ul {
+      margin: 0.4em 0 0 1.2em;
+      padding: 0;
+    }
+  }
+
+  @include breakpoint($medium) {
+    .paper-box-image {
+      justify-content: left;
+      min-width: 180px;
+      max-width: 38%;
+      order: 1;
+    }
+
+    .paper-box-text {
+      justify-content: left;
+      padding-left: 2em;
+      max-width: 62%;
+      order: 2;
+    }
+  }
+}
+
+/* Venue / status badge overlaid on image top-left */
+.badge {
+  padding: 0.25em 0.75em;
+  position: absolute;
+  top: 0.5em;
+  left: -0.5em;
+  color: #fff;
+  background-color: #00369f;
+  font-size: 0.78em;
+  font-weight: bold;
+  border-radius: 2px;
+  white-space: nowrap;
+  z-index: 1;
+}
+
+/* Author list inside paper-box-text */
+.paper-authors {
+  color: var(--global-text-color-light);
+  font-size: 0.9em;
+  margin: 0.3em 0;
+}
+
+/* Publication section: remove border on last card */
+#publications .paper-box:last-of-type {
+  border-bottom: none;
+}

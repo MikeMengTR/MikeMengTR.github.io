@@ -1,0 +1,64 @@
+/* ==========================================================================
+   LAYOUT OVERRIDE
+   Improves content/sidebar ratio on wide screens, matching SitongWang style
+   ========================================================================== */
+
+/* ---- Sidebar: compact fixed column ---- */
+.sidebar {
+  /* Tighten the sidebar link text to avoid overflow */
+  word-break: break-word;
+
+  @media screen and (min-width: 1280px) {
+    max-width: 220px;
+  }
+}
+
+/* ---- Main container: better wide-screen usage ---- */
+/* At very large screens (>1440px), expand beyond the default 1280px cap
+   so content fills more of the viewport instead of leaving huge side margins */
+@media screen and (min-width: 1440px) {
+  #main {
+    max-width: 1400px;
+  }
+
+  .masthead__inner-wrap {
+    max-width: 1400px;
+  }
+
+  .page__footer footer {
+    max-width: 1400px;
+  }
+}
+
+@media screen and (min-width: 1800px) {
+  #main {
+    max-width: 1600px;
+  }
+
+  .masthead__inner-wrap {
+    max-width: 1600px;
+  }
+
+  .page__footer footer {
+    max-width: 1600px;
+  }
+}
+
+/* ---- Disable the right sidebar (matches SitongWang approach) ---- */
+/* The right sidebar in academicpages is already minimal (20-40px),
+   but zero it out entirely for clean layout */
+.sidebar__right {
+  display: none !important;
+}
+
+/* ---- Section spacing for single-page layout ---- */
+/* Ensure sections have enough breathing room */
+.onepage-section {
+  padding-top: 2em;
+  padding-bottom: 1.5em;
+}
+
+/* ---- Remove bottom margin from archive on homepage ---- */
+#main .archive {
+  margin-bottom: 0;
+}

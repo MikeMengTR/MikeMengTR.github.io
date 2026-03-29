@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,63 +17,93 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About me
+# <span class="lang-en">About me</span><span class="lang-zh">关于我</span>
 
-My name is Sitong Wang, you can call me Kane Wang in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in Artificial Intelligence. Here is my [CV](files/SitongWang-CV-English.pdf) for specific information.
+<div class="lang-en" markdown="1">
+My name is Tingran Meng (孟庭冉), you can call me **Mike Meng** in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in **Artificial Intelligence**.
 
-My research interest includes Computer Vision and Computer Graphics. Current work in process is focusing on 3D Digital Hunan. 
+My research interest includes **Energy Prediction** and **Artificial Intelligence**. Current work in process is focusing on **Jointly Multi-Energy Forecasting**.
+</div>
 
-<span style="color: red; font-weight: bold;">Last Update: Dec 24, 2025</span>
+<div class="lang-zh" markdown="1">
+我叫孟庭冉，英文名 **Mike Meng**。目前就读于华南理工大学（SCUT）广州校区，专业为**人工智能**。
 
-# 🔥 News
-- *Dec. 2025*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2024-2025!
-- *Dec. 2024*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2023-2024!
-- *Feb. 2025*: &nbsp;🎉🎉 I have won **<span style="color: red;">Finalist</span> of 2024 Mathematical Contest in Modeling (MCM)**！<span style="color: red;">(Top 2%)</span>
-- *Dec. 2023*: &nbsp;🎉🎉 I have won the **Third-Class Scholarship of South China University of Technology** for the academic year 2022-2023!
-- *Sep. 2022*: &nbsp;🎉🎉 I came to **South China University of Technology** to start my undergraduate student life! 
+研究方向包括**能源预测**与**人工智能**，当前课题聚焦于**多能源联合预测**。
+</div>
 
-# 📝 Publications 
+<span style="color: red; font-weight: bold;"><span class="lang-en">Last Update: Mar 30, 2026</span><span class="lang-zh">最后更新：2026年3月30日</span></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv 2025</div><img src='images/pipeline.png' alt="sym" width="100%"></div></div>
+<span class='anchor' id='-educations'></span>
+
+# 📖 <span class="lang-en">Educations</span><span class="lang-zh">教育背景</span>
+
+<div class="lang-en" markdown="1">
+
+| 📅 Year | 🏛️ Institution | 📚 Major / Program | 🎯 GPA / Rank |
+|---|---|---|---|
+| 2023–Present | South China University of Technology <br> School of Future Technology | Artificial Intelligence | ⭐ **3.90 / 4.00** (Top 7%) |
+| 2020–2023 | Suzhou High School Affiliated to Xi'an Jiaotong University | Physics, Chemistry, Biology | 📝 Gaokao: 648 <br>(Provincial rank: 5543) |
+
+</div>
+
+<div class="lang-zh" markdown="1">
+
+| 📅 年份 | 🏛️ 院校 | 📚 专业 / 项目 | 🎯 GPA / 排名 |
+|---|---|---|---|
+| 2023–至今 | 华南理工大学<br>未来技术学院 | 人工智能 | ⭐ **3.90 / 4.00**（前 7%）|
+| 2020–2023 | 西安交通大学苏州附属高级中学 | 物理、化学、生物 | 📝 高考：648 分<br>（全省排名：5543）|
+
+</div>
+
+<span class='anchor' id='-publications'></span>
+
+# 📝 <span class="lang-en">Publications</span><span class="lang-zh">论文</span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/paper_tiwb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TraGraph-GS: Trajectory Graph-based Gaussian Splatting for Arbitrary Large-Scale Scene Rendering](https://arxiv.org/pdf/2506.08704)
+[Day-Ahead Multi-Energy Forecasting in Microgrids via Temporal Imaging-Wavelet and Cross-Resolution Interaction Network](#)
 
-Xiaohan Zhang†, **Sitong Wang†**, Yushen Yan, Yi Yang, Mingda Xu, and Qi Liu*
+Author Placeholder†, **Tingran Meng†**, Author Placeholder, Author Placeholder
 
-<!-- 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
--->
+<div class="lang-en" markdown="1">
+- We propose a novel multi-energy forecasting framework for microgrids that integrates temporal imaging with wavelet decomposition and a cross-resolution interaction mechanism for accurate day-ahead prediction.
+</div>
+<div class="lang-zh" markdown="1">
+- 我们提出了一种面向微电网的多能源联合预测框架，将时序图像化、小波分解与跨分辨率交互机制相结合，实现精准的日前预测。
+</div>
 
--  We propose TraGraph-GS, a novel view synthesis method based on trajectory graphs that is capable of high-quality rendering for arbitrarily large-scale scenes.
 </div>
 </div>
 
-# 🎖 Honors and Awards
-- *Dec. 2025*: **Third-Class Scholarship**, for the academic year 2024-2025, South China University of Technology.
-- *Jul. 2025*: **First-Class Scholarship of 2025 "Meet Xiao Mian" Innovation Prize**, South China University of Technology.
-- *Jun. 2025*: **Third-Class Scientific and Technological Innovation Award of 2024 "Future Technology Taihu Innovation Award"**, School of Future Technology, South China University of Technology.
-- *May. 2025*: **4th place in "3D Reconstruction From Monocular Multi-Food Images" competition**, CVPR 2025 MetaFood Workshop.
-- *Dec. 2024*: **Third-Class Scholarship**, for the academic year 2023-2024, South China University of Technology.
-- *Dec. 2024*: **First Prize in Guangdong Province of 2024 Higher Education Press Cup National College Students Mathematical Modeling Contest**, China Society for Industrial and Applied Mathematics.
-- *Sep. 2024*: **Graduate Student of South China University of Technology - Baidu Pinecone Talent Training Elite Class**, Baidu Campus.
-- *Apr. 2024*: **Second Prize of the southern division of 2024 MathorCup Mathematics Application Challenge**, Chinese Society of Optimization, Overall Planning and Economic Mathematics.
-- *Feb. 2024*: **Finalist of 2024 Mathematical Contest in Modeling (MCM)**, Consortium for Mathematics and its Applications (COMAP).
-- *Dec. 2023*: **Third-Class Scholarship**, for the academic year 2022-2023, South China University of Technology.
-- *Dec. 2023*: **Second Prize of 2023 'The Greater Bay Area Cup' Guangdong-Hong Kong-Macao Financial Mathematical Modeling Competition**, Guangdong Society for Industrial and Applied Mathematics. 
-- *Mar. 2023*: **First Prize of Future Technology - Baidu PaddlePaddle Cup Student Science and Technology Works Competition**, School of Future Technology, South China University of Technology.
+<span class='anchor' id='-honors-and-awards'></span>
 
-# 📖 Educations
-- *Sep. 2022 - present*: Undergraduate, School of Future Technology, South China University of Technology, Guangzhou, China. 
-- *Sep. 2019 - Jul. 2022*: Jinling High School, Nanjing, China. 
+# 🎖 <span class="lang-en">Honors and Awards</span><span class="lang-zh">荣誉奖项</span>
 
-<!--
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
--->
+<div class="lang-en" markdown="1">
+- *2024*: **First Prize**, National Undergraduate Mathematical Modeling Competition, Guangdong Province.
+- *2024*: **Excellent Third Class Scholarship**, South China University of Technology (Academic Year 2023–2024).
+- *2024*: **Third Prize**, Embedded Chip & System Design Competition, Southern Region.
+- *2023*: **Third Prize**, Baidu PaddlePaddle Cup Student Science and Technology Works Competition, School of Future Technology, South China University of Technology.
+- *2023*: **Third Prize**, National Undergraduate Mathematics Competition, Guangdong Province.
+</div>
 
-# 💻 Internships
-- *Oct. 2024 - Jun. 2025*: [MPRG Lab](https://drliuqi.github.io/laboratory_students), School of Future Technology, South China University of Technology, Guangzhou, China.
+<div class="lang-zh" markdown="1">
+- *2024年*：**一等奖**，全国大学生数学建模竞赛，广东赛区。
+- *2024年*：**三等优秀奖学金**，华南理工大学（2023–2024学年）。
+- *2024年*：**三等奖**，全国嵌入式芯片与系统设计竞赛，华南赛区。
+- *2023年*：**三等奖**，百度飞桨杯大学生科技作品竞赛，华南理工大学未来技术学院。
+- *2023年*：**三等奖**，全国大学生数学竞赛，广东赛区。
+</div>
 
+<span class='anchor' id='-internships'></span>
 
+# 💻 <span class="lang-en">Internships</span><span class="lang-zh">实习 / 科研</span>
+
+<div class="lang-en" markdown="1">
+- Currently seeking research and internship opportunities in energy AI and multi-energy systems.
+</div>
+
+<div class="lang-zh" markdown="1">
+- 目前正在寻找能源人工智能与多能源系统方向的科研与实习机会。
+</div>

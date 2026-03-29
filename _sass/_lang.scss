@@ -1,0 +1,47 @@
+/* ==========================================================================
+   BILINGUAL SUPPORT  (EN default / ZH on demand)
+   ========================================================================== */
+
+/* --- Default (EN) state --- */
+.lang-zh          { display: none; }
+span.lang-en      { display: inline; }
+div.lang-en       { display: block; }
+
+/* --- ZH state --- */
+html[data-lang="zh"] {
+  .lang-en        { display: none; }
+  span.lang-zh    { display: inline; }
+  div.lang-zh     { display: block; }
+}
+
+/* --- Lang toggle button --- */
+#lang-toggle {
+  flex-shrink: 0;
+  cursor: pointer;
+  font-size: 0.82em;
+  font-weight: bold;
+  padding: 0.2em 0.55em;
+  margin-left: 0.6rem;
+  border: 1.5px solid $masthead-link-color;
+  border-radius: 3px;
+  color: $masthead-link-color;
+  user-select: none;
+  white-space: nowrap;
+  line-height: 1.6;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+    border-color: $masthead-link-color-hover;
+  }
+}
+
+/* --- Masthead flex layout so the toggle sits to the right of the nav --- */
+.masthead__inner-wrap {
+  display: flex;
+  align-items: center;
+
+  .masthead__menu {
+    flex: 1;
+    min-width: 0;
+  }
+}

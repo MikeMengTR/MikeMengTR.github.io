@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sitong Wang"
-description              : "2022 - present"
-repository               : "SitongWang-NJ/SitongWang-NJ.github.io"
+title                    : "Tingran Meng"
+description              : "2023 - present"
+repository               : "MikeMengTR/MikeMengTR.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Sitong Wang"
-  avatar           : "images/android-chrome-192x192.png"
-  bio              : "Undergraduate, School of Future Technology, South China University of Technology."
+  name             : "Tingran Meng"
+  avatar           : "images/profile.jpg"
+  bio              : "Undergraduate, School of Future Technology, South China University of Technology. AI & Energy Prediction."
+  bio_zh           : "华南理工大学未来技术学院人工智能本科生，研究方向为能源预测与人工智能。"
   location         : "Guangzhou, China"
   employer         :
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=ClKD-B0AAAAJ"
-  email            : "wangsitongnj@163.com"
+  pubmed           :
+  googlescholar    :
+  email            : "202364870171@mail.scut.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "SitongWang-NJ"
+  github           : "MikeMengTR"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0006-3113-7108"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -64,8 +65,8 @@ include:
   - .htaccess
   - _pages
   - files
-exclude:
   - docs
+exclude:
   - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"

@@ -1,0 +1,18 @@
+# Authors
+
+Tingran Meng:
+  name        : "Tingran Meng"
+  #uri         : "http://name.com"
+  email       : "202364870171@mail.scut.edu.cn"
+  bio         : "Undergraduate student major in Artificial Intelligence, School of Future Technology. My research interests include energy forecasting and CV, with a passion for leveraging AI to drive sustainable development and societal impact."
+  avatar      : "bio-photo-2.jpg"
+  twitter     : "MikeMengTR"
+  #google_plus : "Name"
+
+孟庭冉:
+  name        : "孟庭冉2"
+  email       : "name2@name2.com"
+  bio         : "I ordered what?"
+  avatar      : "bio-photo.jpg"
+  twitter     : "name2"
+  google_plus : "Name"

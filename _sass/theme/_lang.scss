@@ -1,0 +1,69 @@
+/* ==========================================================================
+   LANGUAGE SWITCHING
+   ========================================================================== */
+
+/* Default: show English, hide Chinese */
+.lang-zh { display: none; }
+span.lang-en { display: inline; }
+div.lang-en  { display: block; }
+
+/* When data-lang="zh": show Chinese, hide English */
+html[data-lang="zh"] {
+  .lang-en { display: none; }
+  span.lang-zh { display: inline; }
+  div.lang-zh  { display: block; }
+}
+
+/* Active nav item indicator (ScrollSpy) */
+.greedy-nav .visible-links li.active > a:before {
+  transform: scaleX(1) !important;
+  background: var(--global-link-color) !important;
+}
+
+/* One-page section spacing */
+.onepage-section {
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+}
+
+.section-divider {
+  margin: 2em 0;
+  border: none;
+  border-top: 1px solid var(--global-border-color);
+}
+
+/* Toggles wrapper: inline-flex keeps both buttons horizontal like other nav items */
+.masthead__toggles {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6em;
+  margin: 0 0 0 1rem;
+  padding: 0.5rem 0;
+
+  #lang-toggle {
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: 0.85em;
+    letter-spacing: 0.03em;
+    color: var(--global-masthead-link-color);
+
+    &:hover {
+      color: var(--global-masthead-link-color-hover);
+    }
+  }
+
+  #theme-toggle {
+    width: 25px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    color: var(--global-masthead-link-color);
+
+    &:hover {
+      color: var(--global-masthead-link-color-hover);
+    }
+  }
+}

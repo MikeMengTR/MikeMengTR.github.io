@@ -4,3 +4,5 @@ push.sh
 
 MikeMengTR-new/
 .claude/
+node_modules/
+.sass-cache/

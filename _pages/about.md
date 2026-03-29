@@ -22,13 +22,13 @@ redirect_from:
 <div class="lang-en" markdown="1">
 My name is Tingran Meng (孟庭冉), you can call me **Mike Meng** in English. I'm currently an undergraduate student of South China University of Technology (SCUT) at Guangzhou, China, majoring in **Artificial Intelligence**.
 
-My research interest includes **Energy Prediction** and **Artificial Intelligence**. Current work in process is focusing on **Jointly Multi-Energy Forecasting**.
+My research background lies in **energy time-series forecasting** and **deep learning**. I am now actively broadening my focus toward **large language models (LLMs)** and foundation model research, building the theoretical and practical foundations for this transition.
 </div>
 
 <div class="lang-zh" markdown="1">
 我叫孟庭冉，英文名 **Mike Meng**。目前就读于华南理工大学（SCUT）广州校区，专业为**人工智能**。
 
-研究方向包括**能源预测**与**人工智能**，当前课题聚焦于**多能源联合预测**。
+我的研究背景聚焦于**能源时序预测**与**深度学习**。目前，我正积极向**大语言模型（LLM）**及基础模型方向拓展，为深入开展这一领域的研究做充分准备。
 </div>
 
 <span style="color: red; font-weight: bold;"><span class="lang-en">Last Update: Mar 30, 2026</span><span class="lang-zh">最后更新：2026年3月30日</span></span>

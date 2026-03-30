@@ -64,7 +64,7 @@ My research background lies in **energy time-series forecasting** and **deep lea
 
 [Day-Ahead Multi-Energy Forecasting in Microgrids via Temporal Imaging-Wavelet and Cross-Resolution Interaction Network](#)
 
-Author Placeholder†, **Tingran Meng†**, Author Placeholder, Author Placeholder
+**Tingran Meng**, Shijie Li, Enhua Zhang, Huaiguang Jiang, Ying Xue, Jun Zhang, David Wenzhong Gao
 
 <div class="lang-en" markdown="1">
 - We propose a novel multi-energy forecasting framework for microgrids that integrates temporal imaging with wavelet decomposition and a cross-resolution interaction mechanism for accurate day-ahead prediction.
@@ -101,9 +101,19 @@ Author Placeholder†, **Tingran Meng†**, Author Placeholder, Author Placehold
 # 💻 <span class="lang-en">Internships</span><span class="lang-zh">实习 / 科研</span>
 
 <div class="lang-en" markdown="1">
-- Currently seeking research and internship opportunities in energy AI and multi-energy systems.
+
+**Shanghai Tonghoo Technology Co., Ltd.** — R&D Department Intern
+*Jul. 2025 – Aug. 2025*
+- Participated in building and iterating the company's AI workflow middleware platform; conducted prompt engineering optimization and scenario stability testing.
+- Contributed to the development of an intelligent search system for a law firm; designed the full-text indexing module, achieving a retrieval latency of under 2 seconds in real-world tests.
+
 </div>
 
 <div class="lang-zh" markdown="1">
-- 目前正在寻找能源人工智能与多能源系统方向的科研与实习机会。
+
+**上海仝互科技有限公司** — 研发部门实习生
+*2025年7月 – 2025年8月*
+- 参与公司 AI 工作流中台的搭建与迭代，进行 Prompt 工程调优与场景稳定性测试。
+- 参与律师事务所智能搜索系统开发，设计全文索引模块，实测检索延迟控制在 2 秒内。
+
 </div>

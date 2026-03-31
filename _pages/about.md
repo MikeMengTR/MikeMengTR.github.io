@@ -62,7 +62,7 @@ My research background lies in **energy time-series forecasting** and **deep lea
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/paper_tiwb.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Day-Ahead Multi-Energy Forecasting in Microgrids via Temporal Imaging-Wavelet and Cross-Resolution Interaction Network](#)
+[Day-Ahead Multi-Energy Forecasting in Microgrids via Temporal Imaging-Wavelet and Cross-Resolution Interaction Network](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6333500)
 
 **Tingran Meng**, Shijie Li, Enhua Zhang, Huaiguang Jiang, Ying Xue, Jun Zhang, David Wenzhong Gao
 

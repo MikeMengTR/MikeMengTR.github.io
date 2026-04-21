@@ -81,18 +81,18 @@ My research background lies in **energy time-series forecasting** and **deep lea
 # 🎖 <span class="lang-en">Honors and Awards</span><span class="lang-zh">荣誉奖项</span>
 
 <div class="lang-en" markdown="1">
-- *2024*: **First Prize**, National Undergraduate Mathematical Modeling Competition, Guangdong Province.
+- *2024*: **First Prize**, National College Students' Mathematics Competition, Guangdong Province.
 - *2024*: **Excellent Third Class Scholarship**, South China University of Technology (Academic Year 2023–2024).
 - *2024*: **Third Prize**, Embedded Chip & System Design Competition, Southern Region.
-- *2023*: **Third Prize**, Baidu PaddlePaddle Cup Student Science and Technology Works Competition, School of Future Technology, South China University of Technology.
+- *2023*: **Third Prize**, Baidu PaddlePaddle Cup Student Science and Technology Works Competition, South China University of Technology.
 - *2023*: **Third Prize**, National Undergraduate Mathematics Competition, Guangdong Province.
 </div>
 
 <div class="lang-zh" markdown="1">
-- *2024年*：**一等奖**，全国大学生数学建模竞赛，广东赛区。
+- *2024年*：**一等奖**，全国大学生数学竞赛，广东省。
 - *2024年*：**三等优秀奖学金**，华南理工大学（2023–2024学年）。
 - *2024年*：**三等奖**，全国嵌入式芯片与系统设计竞赛，华南赛区。
-- *2023年*：**三等奖**，百度飞桨杯大学生科技作品竞赛，华南理工大学未来技术学院。
+- *2023年*：**三等奖**，百度飞桨杯大学生科技作品竞赛，华南理工大学。
 - *2023年*：**三等奖**，全国大学生数学竞赛，广东赛区。
 </div>
 
